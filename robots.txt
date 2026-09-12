@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you/
+Disallow: /*?s=
+Sitemap: https://bestchoiceuniform.net/sitemap.xml
