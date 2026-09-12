@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="hotel illustration">
+        <rect width="1200" height="800" fill="#ece9e4"/>
+        <rect x="0" y="0" width="1200" height="150" fill="#20252b"/>
+        <rect x="110" y="260" width="980" height="360" rx="16" fill="#d7cfc5"/>
+        <circle cx="600" cy="245" r="55" fill="#b6b8ba"/>
+        <path d="M520 650 C520 430 545 330 600 315 C655 330 680 430 680 650Z" fill="#2a3037"/>
+        <path d="M560 350 L600 420 L640 350" fill="none" stroke="#c8a84b" stroke-width="12"/>
+        </svg>

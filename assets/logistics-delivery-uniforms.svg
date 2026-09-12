@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="logistics illustration">
+        <rect width="1200" height="800" fill="#edf0f2"/>
+        <rect x="140" y="330" width="920" height="300" rx="30" fill="#c9cfd5"/>
+        <rect x="220" y="250" width="430" height="280" rx="18" fill="#1e242b"/>
+        <rect x="700" y="390" width="250" height="140" rx="12" fill="#dfe3e7"/>
+        <circle cx="320" cy="650" r="65" fill="#1a2026"/><circle cx="860" cy="650" r="65" fill="#1a2026"/>
+        <path d="M240 420 H620 M240 480 H620" stroke="#c8a84b" stroke-width="10"/>
+        </svg>

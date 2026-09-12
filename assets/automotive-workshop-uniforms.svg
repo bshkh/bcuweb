@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="automotive illustration">
+        <rect width="1200" height="800" fill="#e9ebed"/>
+        <rect x="100" y="120" width="1000" height="560" rx="24" fill="#c9ced3"/>
+        <path d="M260 520 L420 360 H760 L930 520" fill="none" stroke="#242a31" stroke-width="30"/>
+        <circle cx="470" cy="590" r="80" fill="#1b2027"/><circle cx="730" cy="590" r="80" fill="#1b2027"/>
+        <path d="M520 260 H680" stroke="#c8a84b" stroke-width="16"/>
+        </svg>

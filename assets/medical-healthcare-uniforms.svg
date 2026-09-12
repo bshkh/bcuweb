@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="medical illustration">
+        <rect width="1200" height="800" fill="#edf4f3"/>
+        <path d="M0 160 H1200 M0 310 H1200 M0 460 H1200 M0 610 H1200" stroke="#d4dddd" stroke-width="4"/>
+        <g fill="#1e5b61">
+          <circle cx="420" cy="240" r="48"/><path d="M350 650 C350 410 370 330 420 310 C470 330 490 410 490 650Z"/>
+          <circle cx="780" cy="240" r="48"/><path d="M710 650 C710 410 730 330 780 310 C830 330 850 410 850 650Z"/>
+        </g>
+        <path d="M420 330 V620 M780 330 V620" stroke="#c8a84b" stroke-width="7"/>
+        </svg>

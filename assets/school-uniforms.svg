@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-label="school illustration">
+        <rect width="1200" height="800" fill="#edf0f2"/>
+        <rect x="80" y="120" width="1040" height="520" rx="20" fill="#d9dee3"/>
+        <g fill="#17202a">
+          <circle cx="390" cy="285" r="48"/><path d="M330 610 C330 430 345 365 390 350 C435 365 450 430 450 610Z"/>
+          <circle cx="610" cy="260" r="48"/><path d="M550 610 C550 430 565 340 610 325 C655 340 670 430 670 610Z"/>
+          <circle cx="830" cy="285" r="48"/><path d="M770 610 C770 430 785 365 830 350 C875 365 890 430 890 610Z"/>
+        </g>
+        <path d="M270 350 H510 M490 325 H730 M710 350 H950" stroke="#c8a84b" stroke-width="10"/>
+        </svg>
